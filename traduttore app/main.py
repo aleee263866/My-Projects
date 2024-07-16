@@ -8,7 +8,7 @@ root = Tk()
 root.title("PythonTrans")
 root.configure(background="#14181f")
 root.resizable(0,0)
-root.iconbitmap("C:/Users/alesi/Documents/Progetti/Python/traduttore app/logo_traduttore.ico")
+root.iconbitmap("path")
 translator = Translator()
 window_width = 800
 window_height = 500
